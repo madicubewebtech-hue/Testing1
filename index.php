@@ -6,4 +6,6 @@ echo "Test file 2";
 
 echo "Test file testing";
 
+echo "Test file testing";
+
 ?>
